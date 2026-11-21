@@ -4,7 +4,7 @@
 
 ## Columns
 - `task`: the ProgramLab task (repository and commit).
-- `single`: one agent working alone.
+- `single`: one agent working alone (ran 5 times, score best of 5).
 - `1x5`: one group of 5 agents
 - `2x5`: two groups of 5 agents each.
 - `1x10`: one group of 10 agents.
